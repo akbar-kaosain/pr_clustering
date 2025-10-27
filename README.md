@@ -1,6 +1,7 @@
 # Pull Request Clustering Using Text Similarity
 
 📄 A detailed project report is available at [https://kaosain.com/calgary/](https://kaosain.com/calgary/)
+The whole zip file of the code is also available within the repository.
 
 ### Overview
 This project groups similar pull requests (PRs) from a GitHub repository based on their text content. Each pull request has a title and description written by developers. By using AI-based text embeddings and clustering methods, the project identifies PRs that are semantically related such as those fixing similar bugs or improving the same parts of the system.
