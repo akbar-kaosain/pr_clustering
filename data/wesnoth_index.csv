@@ -1,0 +1,401 @@
+number,title,labels,url
+10635,Fix shema cumulative= valide for no numerical abilities/special,"Unit Tests,Units,Schema,Campaign DiD,Campaign WC,Campaign TDG",https://github.com/wesnoth/wesnoth/pull/10635
+10633,Sort terrain entries alphabetically.,"Help,Terrain",https://github.com/wesnoth/wesnoth/pull/10633
+10537,Revert 'Balancing Update' to Dwarvish Miner,Units,https://github.com/wesnoth/wesnoth/pull/10537
+10621,GUI2/Story Viewer: title text positioning support in [part],"UI,Schema",https://github.com/wesnoth/wesnoth/pull/10621
+10625,Check for secret,"CI,Android",https://github.com/wesnoth/wesnoth/pull/10625
+10622,Ignore invalid old-style attribute names,Help,https://github.com/wesnoth/wesnoth/pull/10622
+10538,Fix abilities_special_tooltips() so that 'name_affected' is displayed the same way as [specials],"Unit Tests,Units",https://github.com/wesnoth/wesnoth/pull/10538
+10617,TSG: assorted tutorial improvements,"Graphics,Units,Achievements,Campaign TSG",https://github.com/wesnoth/wesnoth/pull/10617
+10629,"Fix [resistance_defaults] leaking on random maps, causing OOS",,https://github.com/wesnoth/wesnoth/pull/10629
+10632,"Adjust L2/L3 Merfolk hp, damage, xp, and cost",Units,https://github.com/wesnoth/wesnoth/pull/10632
+10572,Move starting and trailing new-lines from translation strings,"MP,Translations,Editor,Units,Prose,Help,Campaign TSG,Campaign Tutorial,Campaign UtBS",https://github.com/wesnoth/wesnoth/pull/10572
+10627,animation wml: fix range padding syntax,WML,https://github.com/wesnoth/wesnoth/pull/10627
+10624,attack_type: mark describe_modification as static,Units,https://github.com/wesnoth/wesnoth/pull/10624
+10593,Remove confusing locale dir differences,"Building,SCons",https://github.com/wesnoth/wesnoth/pull/10593
+10590,max_value and min_value support WML formulas in abilities and specials.,"Unit Tests,Units",https://github.com/wesnoth/wesnoth/pull/10590
+10610,WoF game play updates,"Graphics,Audio,Units,Campaign WoF",https://github.com/wesnoth/wesnoth/pull/10610
+10602,Revert e135517393a since it shows wrong defense values,UI,https://github.com/wesnoth/wesnoth/pull/10602
+10614,Add [rich_label] <ref> help links to TDG's spellcasting dialog,Campaign TDG,https://github.com/wesnoth/wesnoth/pull/10614
+10613,Replace action with base64 command,CI,https://github.com/wesnoth/wesnoth/pull/10613
+10615,"Android/CI: debug build for PRs, release build for commits","CI,Android",https://github.com/wesnoth/wesnoth/pull/10615
+10612,Add a test for cumulative used with attributes other than value,Unit Tests,https://github.com/wesnoth/wesnoth/pull/10612
+10490,Fix some issues with 'Enthrall' in TDG,Campaign TDG,https://github.com/wesnoth/wesnoth/pull/10490
+10568,Editor: Move scenario components when resizing scenario's map,Editor,https://github.com/wesnoth/wesnoth/pull/10568
+10599,Clarify help entry for random traits of a unit type,Help,https://github.com/wesnoth/wesnoth/pull/10599
+10605,"Add ""oceangoing"" and ""push-poles"" [defense] abilities to ships",Units,https://github.com/wesnoth/wesnoth/pull/10605
+10611,Enable float conversions with utils::from_chars,"MP,Units,Lua API",https://github.com/wesnoth/wesnoth/pull/10611
+10234,use std::from_chars for the integer variants (issue #10009),Engine,https://github.com/wesnoth/wesnoth/pull/10234
+10570,Ease (future) translation overhead,"Translations,Units,Prose,Campaign EI,Campaign TSG,Campaign WoF,Campaign TDG",https://github.com/wesnoth/wesnoth/pull/10570
+10509,AToTB S3: Add new event when standing between two runes,Campaign AToTB,https://github.com/wesnoth/wesnoth/pull/10509
+10577,Ships: don't bob while beached,"Graphics,Units",https://github.com/wesnoth/wesnoth/pull/10577
+10583,Prevent duplicates in extra recruits.,"Units,Lua API,WFL",https://github.com/wesnoth/wesnoth/pull/10583
+10596,Config: misc minor cleanups,Engine,https://github.com/wesnoth/wesnoth/pull/10596
+10597,Mark swap functions noexcept,"MP,Units,Add-ons",https://github.com/wesnoth/wesnoth/pull/10597
+10595,Return value from read_locations,,https://github.com/wesnoth/wesnoth/pull/10595
+10525,New IPF: PAD [LLM assisted],"Graphics,AI/LLM assisted,Squash",https://github.com/wesnoth/wesnoth/pull/10525
+10582,Remove most uses of atoi,"MP,Units,Lua API",https://github.com/wesnoth/wesnoth/pull/10582
+10588,ai: don't use lexical_cast to write configs,AI,https://github.com/wesnoth/wesnoth/pull/10588
+10586,Sulla's Ruins: mention that Sulla was Aether Mage,"MP,Prose",https://github.com/wesnoth/wesnoth/pull/10586
+10585,Android: don't set WESNOTH_PATH,"Building,Packaging,SCons,Android",https://github.com/wesnoth/wesnoth/pull/10585
+10581,base64: generate constants at compile time,Engine,https://github.com/wesnoth/wesnoth/pull/10581
+9843,"Add [clear_chat], [get_zoom], and optional scrolling support","Lua API,Squash",https://github.com/wesnoth/wesnoth/pull/9843
+10574,Sergeant Line: reduce crossbow strikes from 3 to 2,Units,https://github.com/wesnoth/wesnoth/pull/10574
+10556,Note in CONTRIBUTING.md that code doesn't always match clang-format,Docs,https://github.com/wesnoth/wesnoth/pull/10556
+10573,Campaignd: remove implicit conversion from control_line,Add-ons,https://github.com/wesnoth/wesnoth/pull/10573
+10571,Fixup tests,"Add-ons,Engine",https://github.com/wesnoth/wesnoth/pull/10571
+10540,Liberty 1.20 adjustments,"Graphics,Units,Achievements,Campaign L",https://github.com/wesnoth/wesnoth/pull/10540
+10567,Test scenario: Give the Shyde a new slows that only works in forest,Unit Tests,https://github.com/wesnoth/wesnoth/pull/10567
+10370,"SotBE: Add AMLAs for Orcish, Wolf, Troll and Saurian units.","Enhancement,Campaign SotBE",https://github.com/wesnoth/wesnoth/pull/10370
+10549,Fix off-by-one error in padding calculation for progressive strings,Engine,https://github.com/wesnoth/wesnoth/pull/10549
+10552,TSG: use Asmodeus's new portrait for Mari,"Graphics,Campaign TSG",https://github.com/wesnoth/wesnoth/pull/10552
+10507,TDG - small fixes,"Graphics,Campaign TDG",https://github.com/wesnoth/wesnoth/pull/10507
+10544,set expectations around LLM generated code,Docs,https://github.com/wesnoth/wesnoth/pull/10544
+10566,Add tests for reversed-order config heterogenous comparison,,https://github.com/wesnoth/wesnoth/pull/10566
+10564,Test scenario: the Silver Mage teaches marksmanship,Unit Tests,https://github.com/wesnoth/wesnoth/pull/10564
+10565,Minor include cleanup,"AI,UI,Units",https://github.com/wesnoth/wesnoth/pull/10565
+10563,Test scenario: put a sensible filter on the shroud change,Unit Tests,https://github.com/wesnoth/wesnoth/pull/10563
+10555,Remove implicit attribute value conversion to t_string,"AI,MP,UI,Units,Help,Terrain",https://github.com/wesnoth/wesnoth/pull/10555
+10543,let queues randomly select a scenario from a list,"MP,MP Lobby,UI",https://github.com/wesnoth/wesnoth/pull/10543
+10559,correct documentation in [defense] test,Unit Tests,https://github.com/wesnoth/wesnoth/pull/10559
+10560,side_ai.cfg: fix textdomain to correct one,Campaign L,https://github.com/wesnoth/wesnoth/pull/10560
+10524,Changing the weapon special [defense] into an ability,"Unit Tests,Units,Schema,Campaign UtBS,Campaign TDG",https://github.com/wesnoth/wesnoth/pull/10524
+10558,GUI2/Campaign Selection: use initializer lists for nodes,UI,https://github.com/wesnoth/wesnoth/pull/10558
+10554,"Fix ""no previous prototype for function"" warnings on Xcode 26","macOS,Building",https://github.com/wesnoth/wesnoth/pull/10554
+10550,Update .clang-format,,https://github.com/wesnoth/wesnoth/pull/10550
+10553,Mark t_string_base ctors explicit,,https://github.com/wesnoth/wesnoth/pull/10553
+10551,TSG: fix missing bun on 2 frames of Mari's defense animation,"Graphics,Campaign TSG",https://github.com/wesnoth/wesnoth/pull/10551
+10502,"Config Attribute Value: compare string-like types directly, remove heterogenous comparison for integers","Unit Tests,Lua API,Engine",https://github.com/wesnoth/wesnoth/pull/10502
+10541,Use the default music playlist for Dark Forecast and Isle of Mists,MP,https://github.com/wesnoth/wesnoth/pull/10541
+10545,MP: Fix lag during AI turns on 5P The Wilderlands,"MP,Stable 1.18",https://github.com/wesnoth/wesnoth/pull/10545
+10482,MP: Fix lag during AI turns on 5P The Wilderlands,MP,https://github.com/wesnoth/wesnoth/pull/10482
+10542,Replace S10x Elensefar map,Campaign TDG,https://github.com/wesnoth/wesnoth/pull/10542
+10531,Editor controller: Allow selecting another addon even if one is selected,"UI,Editor",https://github.com/wesnoth/wesnoth/pull/10531
+10527,TDG: Asheviere's Dogs reversions,Campaign TDG,https://github.com/wesnoth/wesnoth/pull/10527
+10513,Help: Add positioning info to parse errors,"UI,Help",https://github.com/wesnoth/wesnoth/pull/10513
+10517,Bugfix for get_hexed in picture.ccp,Graphics,https://github.com/wesnoth/wesnoth/pull/10517
+10521,DW units: add generic mace attack animationWML,"Units,Campaign DW",https://github.com/wesnoth/wesnoth/pull/10521
+10358,1.19 various monster sprite updates,"Graphics,Units",https://github.com/wesnoth/wesnoth/pull/10358
+10515,Fix some capitalization issues in new boat unit descriptions,Units,https://github.com/wesnoth/wesnoth/pull/10515
+9774,"For translation stats, TSG is now the tutorial","Translations,Campaign TSG,Campaign Tutorial",https://github.com/wesnoth/wesnoth/pull/9774
+10506,Remove unnecessary differences between Bone Knight and Skeleton Rider unit descriptions,Units,https://github.com/wesnoth/wesnoth/pull/10506
+10495,AToTB S4 Map: Aesthetic Revision,Campaign AToTB,https://github.com/wesnoth/wesnoth/pull/10495
+10432,Revert behavior change from 3cc3c75,UI,https://github.com/wesnoth/wesnoth/pull/10432
+10401,Revise 1.19's new ships' stats alternative,"Graphics,Audio,Unit Tests,Units",https://github.com/wesnoth/wesnoth/pull/10401
+10501,Help hidden topic improvement,"UI,Help",https://github.com/wesnoth/wesnoth/pull/10501
+10497, fix #10496 OOS when using DSU,,https://github.com/wesnoth/wesnoth/pull/10497
+10493,Units Dialog (Recall): sort by experience to next level,UI,https://github.com/wesnoth/wesnoth/pull/10493
+10486,Android: Handle errors when determining gamedata path and respect WESNOTH_PATH,Android,https://github.com/wesnoth/wesnoth/pull/10486
+10476,Android: onscreen keyboard and back button support,"UI,Input,Android",https://github.com/wesnoth/wesnoth/pull/10476
+10455,fix attack enemies command don't work anymore,UI,https://github.com/wesnoth/wesnoth/pull/10455
+10481,rename [defense] special/abilities to [defense_special],"Unit Tests,Units,Schema,Campaign UtBS,Campaign TDG",https://github.com/wesnoth/wesnoth/pull/10481
+10488,"Revert ""rename [defense] special/abilities to [defense_special] (#10481)""","Unit Tests,Units,Schema,Campaign UtBS,Campaign TDG",https://github.com/wesnoth/wesnoth/pull/10488
+10477,Remove [defense] ability from ships,Units,https://github.com/wesnoth/wesnoth/pull/10477
+10443,TSG: make Afalas nicer,Campaign TSG,https://github.com/wesnoth/wesnoth/pull/10443
+10429,"Standardize L, EI, and TDG's Rogue Mage units","Graphics,Units,Campaign EI,Campaign L,Campaign TDG",https://github.com/wesnoth/wesnoth/pull/10429
+10474,[1.18] Make the Load Game dialog see other-version save files from 1.19,"UI,Stable 1.18",https://github.com/wesnoth/wesnoth/pull/10474
+10475,Make the Load Game dialog for 1.19 and 1.20 see each other's save files,UI,https://github.com/wesnoth/wesnoth/pull/10475
+10479,Save Index: fix dangling reference when index file does not exist,,https://github.com/wesnoth/wesnoth/pull/10479
+10468,Fix animation glitches when terrain scrolls onto screen,Graphics,https://github.com/wesnoth/wesnoth/pull/10468
+10467,Addon Info: remove extra escaping,"UI,Add-ons",https://github.com/wesnoth/wesnoth/pull/10467
+10469,Slightly improve team/side number encapsulation (team::knows_upkeep),UI,https://github.com/wesnoth/wesnoth/pull/10469
+10453,Simplify and consolidate save loading paths,UI,https://github.com/wesnoth/wesnoth/pull/10453
+10463,Tips: add hotkey customization tip and fix spacing,Help,https://github.com/wesnoth/wesnoth/pull/10463
+10433,1.19 Basic fire-dragon animations,"Graphics,Units",https://github.com/wesnoth/wesnoth/pull/10433
+10456,Update comments about image loading for canvases,UI,https://github.com/wesnoth/wesnoth/pull/10456
+10459,Rename second unit_mover class,Units,https://github.com/wesnoth/wesnoth/pull/10459
+10460,Addon Manager: select correct layer for controls (#10457),"UI,Add-ons",https://github.com/wesnoth/wesnoth/pull/10460
+10449,Remove unnecessary use of blank-hex.png in the add-ons list,"UI,Add-ons",https://github.com/wesnoth/wesnoth/pull/10449
+10436,Have presets support saving the same values as the last used scenario preferences,UI,https://github.com/wesnoth/wesnoth/pull/10436
+10450,"Log at most one ""image won't be drawn"" error per canvas",UI,https://github.com/wesnoth/wesnoth/pull/10450
+10452,NR: stop some loyals and heroes from being renamed,Campaign NR,https://github.com/wesnoth/wesnoth/pull/10452
+10330,Fonts: Replace Oldania with customized version,UI,https://github.com/wesnoth/wesnoth/pull/10330
+10451,Display any errors encountered when reading save files,,https://github.com/wesnoth/wesnoth/pull/10451
+10445,Regroup the checks for abilities used as weapons into two separate functions.,Units,https://github.com/wesnoth/wesnoth/pull/10445
+10384,fix name_affected no showed in sidebar for unit affected by 'initiative',Campaign HttT,https://github.com/wesnoth/wesnoth/pull/10384
+10399,Move checking_tags()set to ability_tags.hpp file,"Units,Building",https://github.com/wesnoth/wesnoth/pull/10399
+10442,Preprocessor: clean up preproc_map input handling,"UI,Editor,Lua API",https://github.com/wesnoth/wesnoth/pull/10442
+10428,Fix move behavior of enable_lua_ptr<T>,Lua API,https://github.com/wesnoth/wesnoth/pull/10428
+10426,checking unit with underlying_id() and remove same_unit() function,Units,https://github.com/wesnoth/wesnoth/pull/10426
+10441,EI: fix 2 baneblade bugs (#8914),Campaign EI,https://github.com/wesnoth/wesnoth/pull/10441
+10440,Reduce copying of preproc_define and tidy up config cache,"UI,Editor,Lua API,Add-ons",https://github.com/wesnoth/wesnoth/pull/10440
+10435,Dunefolk balance changes for 1.20,Units,https://github.com/wesnoth/wesnoth/pull/10435
+9942,lua api: add double click event handler,"UI,Lua API",https://github.com/wesnoth/wesnoth/pull/9942
+10422,Improve UI test,"Unit Tests,UI",https://github.com/wesnoth/wesnoth/pull/10422
+10317,Floating label cleanup and optimization,UI,https://github.com/wesnoth/wesnoth/pull/10317
+10363,Fix halo and hides display bug in abilities,Units,https://github.com/wesnoth/wesnoth/pull/10363
+10434,Consistently format achievements,"Achievements,Campaign EI,Campaign L,Campaign THoT,Campaign TDG",https://github.com/wesnoth/wesnoth/pull/10434
+10431,TRoW: improve {ABILITY_DISTRACT} description,Campaign TRoW,https://github.com/wesnoth/wesnoth/pull/10431
+10394,"Use resting for burrow instead of moves, closes #8693",Units,https://github.com/wesnoth/wesnoth/pull/10394
+10389,Android/InitActivity: add userdata import/export functionality (#10326),"UI,Packaging,Android",https://github.com/wesnoth/wesnoth/pull/10389
+10425,Fix a potential out-of-bounds error in mouse button handling,,https://github.com/wesnoth/wesnoth/pull/10425
+10385,"Change Sylph, Shyde, and Enchantress to be closer to 1.16",Units,https://github.com/wesnoth/wesnoth/pull/10385
+10390,TSG S06b: explain S05b bonus in objectives,Campaign TSG,https://github.com/wesnoth/wesnoth/pull/10390
+10421,Use utils::contains in more places,"AI,MP,UI,Units,Add-ons,WFL,Help,Schema,Terrain",https://github.com/wesnoth/wesnoth/pull/10421
+10356,give 'radius' to 'illuminates' abilities,"Unit Tests,Units,Schema",https://github.com/wesnoth/wesnoth/pull/10356
+10417,Android/build-dependencies: check existence before copying,"Packaging,Android",https://github.com/wesnoth/wesnoth/pull/10417
+10340,Fix bug when receiving [notify_next_scenario] too early,UI,https://github.com/wesnoth/wesnoth/pull/10340
+9500,Fix assertion error on [allow_undo] misuse,WML,https://github.com/wesnoth/wesnoth/pull/9500
+10415,Add fastlane metadata for f-droid,"CI,Android",https://github.com/wesnoth/wesnoth/pull/10415
+10339,Fix #10029 leader for disabled side,MP Lobby,https://github.com/wesnoth/wesnoth/pull/10339
+10412,Sprite shadow corrections,"Graphics,Units,Stable 1.18",https://github.com/wesnoth/wesnoth/pull/10412
+10404,fix #10393 shaman.png shadow,"Graphics,Units",https://github.com/wesnoth/wesnoth/pull/10404
+10397,Skeletal Dragon image_icon,Units,https://github.com/wesnoth/wesnoth/pull/10397
+10282,Lower Drake Arcane Resistance,Units,https://github.com/wesnoth/wesnoth/pull/10282
+10279,Add [defense] ability to be able to modify base cth while be overwritable by [chance_to_hit],"Unit Tests,UI,Units,Schema,Campaign DiD,Campaign HttT,Campaign UtBS,Campaign TDG",https://github.com/wesnoth/wesnoth/pull/10279
+10387,Ensure all music_tracks objects are valid,"Audio,Editor,Lua API",https://github.com/wesnoth/wesnoth/pull/10387
+10392,Change mistaken call to active_view::origin back to active_view::size,,https://github.com/wesnoth/wesnoth/pull/10392
+10072,Great Mage: use Asmodeus's fireball animation,Units,https://github.com/wesnoth/wesnoth/pull/10072
+10382,TSG/TDG: A couple of corrections,"Prose,Campaign TSG,Campaign TDG",https://github.com/wesnoth/wesnoth/pull/10382
+10381,Android CI: tar first before uploading,"CI,Android",https://github.com/wesnoth/wesnoth/pull/10381
+10378,Improve play_music_config implementation,Audio,https://github.com/wesnoth/wesnoth/pull/10378
+10379,Some presets fixes,UI,https://github.com/wesnoth/wesnoth/pull/10379
+10380,Merfolk Diviner: slightly adjust description.,"Units,Help",https://github.com/wesnoth/wesnoth/pull/10380
+10374,Add util for container lookup with projections,"UI,Lua API,Add-ons,WFL",https://github.com/wesnoth/wesnoth/pull/10374
+10090,Add New 6p Map - Double Siege,MP,https://github.com/wesnoth/wesnoth/pull/10090
+8093,Fix [resistance] without max_value bug,"Unit Tests,Units,Schema",https://github.com/wesnoth/wesnoth/pull/8093
+9079,Fix “filter_adjacent_location” not working in ability,"Unit Tests,Units,Schema",https://github.com/wesnoth/wesnoth/pull/9079
+10248,Fix weapon tooltip to display modifications by [damage_type],Units,https://github.com/wesnoth/wesnoth/pull/10248
+8143,Modify shema validation for more consistency,Schema,https://github.com/wesnoth/wesnoth/pull/8143
+8152,fix leveling for Kaleh and Nym in Utbs,"Units,Campaign UtBS",https://github.com/wesnoth/wesnoth/pull/8152
+8471,update list of boost headers used in compilation,Building,https://github.com/wesnoth/wesnoth/pull/8471
+8472,backport it to 1.18,Building,https://github.com/wesnoth/wesnoth/pull/8472
+8904,Use type_adv_tree in some filters to support addons adding advancements to existing unit types[1.18],"Campaign DiD,Campaign EI,Campaign HttT,Campaign LoW,Campaign SotA,Campaign UtBS",https://github.com/wesnoth/wesnoth/pull/8904
+9893,fix rect.cpp compilation,Building,https://github.com/wesnoth/wesnoth/pull/9893
+7271,change calculation rules so that add and sub are always used independently,"Unit Tests,Units",https://github.com/wesnoth/wesnoth/pull/7271
+9304,fix tag_name check deficiencies(1.18 backport),"Unit Tests,Units",https://github.com/wesnoth/wesnoth/pull/9304
+10277,Place the codes for [filter_adjacent] and [filter_adjacent_location] in the same function to avoid duplicating the code,Units,https://github.com/wesnoth/wesnoth/pull/10277
+10371,Ghoul-line: Resistance changes,Units,https://github.com/wesnoth/wesnoth/pull/10371
+10368,SOTBE: add campaign menu bg,"Enhancement,Campaign SotBE",https://github.com/wesnoth/wesnoth/pull/10368
+10366,Menu Events: rework recruit validation,Units,https://github.com/wesnoth/wesnoth/pull/10366
+10365,GUI2/Unit Preview Pane: show accuracy/parry info,"UI,Units",https://github.com/wesnoth/wesnoth/pull/10365
+10355,Backport 1.18: Change Japanese font to Noto Sans JP,"Translations,Stable 1.18",https://github.com/wesnoth/wesnoth/pull/10355
+10362,Fix command line and some keyboard shortcuts no longer work,"UI,iOS,Input,Android",https://github.com/wesnoth/wesnoth/pull/10362
+10323,Remove FormulaAI,"macOS,AI,Units,Building,WFL,Schema",https://github.com/wesnoth/wesnoth/pull/10323
+10354,WFL: add new core functions to supplement FAI functionality,WFL,https://github.com/wesnoth/wesnoth/pull/10354
+10350,GUI2/Textboxes: fix virtual keyboard not appearing,"UI,Input,Android",https://github.com/wesnoth/wesnoth/pull/10350
+10353,Fonts: Change Japanese font to Noto Sans JP (#10063),Translations,https://github.com/wesnoth/wesnoth/pull/10353
+10349,"TSG/TDG: remove ""miss"" text from missed attacks","Campaign TSG,Campaign TDG",https://github.com/wesnoth/wesnoth/pull/10349
+10332,Fix non-permanent bans not actually working,"MP,Add-ons",https://github.com/wesnoth/wesnoth/pull/10332
+10342,Lua jailbreak catch backport1.18,"Unit Tests,Lua API,Stable 1.18",https://github.com/wesnoth/wesnoth/pull/10342
+10324,Additional Fire Wisp sprites and animations,"Graphics,Units",https://github.com/wesnoth/wesnoth/pull/10324
+10344,GUI/Events: Touch: double tap movement/single tap select,"UI,iOS,Input,Schema,Android",https://github.com/wesnoth/wesnoth/pull/10344
+10347,MP: simplify payload config object construction,UI,https://github.com/wesnoth/wesnoth/pull/10347
+10341,MP/Faction Select: add listbox sorter for faction names,"UI,Schema",https://github.com/wesnoth/wesnoth/pull/10341
+10314,Loyalist paladin arcane patch,"Enhancement,Units,Campaign EI",https://github.com/wesnoth/wesnoth/pull/10314
+10336,TSG: remove more fourth wall breaking dialogue,Campaign TSG,https://github.com/wesnoth/wesnoth/pull/10336
+10056,HttT S19c: clearer objective,Campaign HttT,https://github.com/wesnoth/wesnoth/pull/10056
+10337,"TDG S07: add starting gold, replace vision indicator, and add note about luck","Graphics,Campaign TDG",https://github.com/wesnoth/wesnoth/pull/10337
+10335,Editor Controller: Override error fix and cleanup,Editor,https://github.com/wesnoth/wesnoth/pull/10335
+10333,1.19 Dune firetrooper sprites,"Graphics,Units",https://github.com/wesnoth/wesnoth/pull/10333
+10315,1.19 Dunefolk Horse anims,"Graphics,Units",https://github.com/wesnoth/wesnoth/pull/10315
+10331,CI: Update Windows image,"Windows,CI,Stable 1.18",https://github.com/wesnoth/wesnoth/pull/10331
+10329,add tests for [gold],Unit Tests,https://github.com/wesnoth/wesnoth/pull/10329
+10318,"Use rect, point, and std::size_t consistently","AI,MP,UI,Editor,Units,Lua API,WFL,Help,Terrain",https://github.com/wesnoth/wesnoth/pull/10318
+10289,convert game presets into preferences,"MP,UI,Schema",https://github.com/wesnoth/wesnoth/pull/10289
+10320,Allow var substitution for wml menu items at invocation time,,https://github.com/wesnoth/wesnoth/pull/10320
+9811,TSG: some S01/S02 tweaks,"Units,Campaign TSG",https://github.com/wesnoth/wesnoth/pull/9811
+10321,Fix [terrain_defaults] default value not being used,"Units,WFL",https://github.com/wesnoth/wesnoth/pull/10321
+10316,GUI2: reworked the status label helper API,UI,https://github.com/wesnoth/wesnoth/pull/10316
+10313,NR S04: check if hex is passable before spawn,"Enhancement,Campaign NR",https://github.com/wesnoth/wesnoth/pull/10313
+10309,Use native widgets for theme dropdown menu toggles,"UI,Editor",https://github.com/wesnoth/wesnoth/pull/10309
+10287,"Add a prefix "" MP"" for saves of hybrid campaigns run in MP",MP,https://github.com/wesnoth/wesnoth/pull/10287
+10292,Fix assertion after event cleanup failue,Engine,https://github.com/wesnoth/wesnoth/pull/10292
+10310, Compare units directly instead of locations ,Units,https://github.com/wesnoth/wesnoth/pull/10310
+10291,Fix 'name_afected' implemented in [specials] specials by error,"UI,Units,Campaign UtBS,Campaign TDG",https://github.com/wesnoth/wesnoth/pull/10291
+10306,Fix [filter_adjacent] which checks the central unit,"Unit Tests,Units",https://github.com/wesnoth/wesnoth/pull/10306
+10283,Editor/Edit Side: don't add/write game default base_income,"AI,UI,Editor,Terrain",https://github.com/wesnoth/wesnoth/pull/10283
+10307,Editor/Controller: convert menu_type to a scoped enum,Editor,https://github.com/wesnoth/wesnoth/pull/10307
+10305,SotA: Update terrain,"Backport,Campaign SotA",https://github.com/wesnoth/wesnoth/pull/10305
+10293,specials/abilities string substitution refactor,Units,https://github.com/wesnoth/wesnoth/pull/10293
+10300,fix specement error in windows.cpp,UI,https://github.com/wesnoth/wesnoth/pull/10300
+10285,Hotkey action state cleanup,Editor,https://github.com/wesnoth/wesnoth/pull/10285
+10284,Units: Dwarvish Thunderer cost -1G,Units,https://github.com/wesnoth/wesnoth/pull/10284
+10278,Hotkey/Handler: optimize menu list generation,,https://github.com/wesnoth/wesnoth/pull/10278
+10275,Skeletal Undead Arcane Resistance Resolution,"Unit Tests,Units,Campaign EI",https://github.com/wesnoth/wesnoth/pull/10275
+10222,add a 'radius' to abilities [filter_adjacent] and [filter][filter_adjacent].,"Unit Tests,Units,Schema",https://github.com/wesnoth/wesnoth/pull/10222
+10276,add overlay layer wildcard to standing anim terrain filter,Units,https://github.com/wesnoth/wesnoth/pull/10276
+10274,"HttT: remove ""sparkles"" from Li'sar's Initiative ability","Graphics,Campaign HttT",https://github.com/wesnoth/wesnoth/pull/10274
+10272,1.19 - add primary key to boat frames,Units,https://github.com/wesnoth/wesnoth/pull/10272
+10013,update codeblock projectfile,Building,https://github.com/wesnoth/wesnoth/pull/10013
+9910,Integrate special ability events into these abilities.,"Units,Campaign DiD,Campaign UtBS,Campaign WoF",https://github.com/wesnoth/wesnoth/pull/9910
+9950,add 'invulnerable' status for prevent unit die during tests,Unit Tests,https://github.com/wesnoth/wesnoth/pull/9950
+10145,fix direction reversal for adjacent attribute in [affect_adjacent],"Unit Tests,Units",https://github.com/wesnoth/wesnoth/pull/10145
+10238,Fix Undoing a move by a counterspell-caster fails to undo the counterspell halo move,"Graphics,Campaign TDG",https://github.com/wesnoth/wesnoth/pull/10238
+10268,fix 'cumulative' attribute not added in abilities filter shema validation,Schema,https://github.com/wesnoth/wesnoth/pull/10268
+10269,fix 'cumulative' attribute not added in abilities filter shema validation(1.18 backport),Schema,https://github.com/wesnoth/wesnoth/pull/10269
+10265,[Units] Wyvern Rider: update ranged attack anim,"Enhancement,Units",https://github.com/wesnoth/wesnoth/pull/10265
+10267,"Use math.randomseed make break_replay_with_lua_random reliable, closes #10143",Unit Tests,https://github.com/wesnoth/wesnoth/pull/10267
+10266,MP/Connect Engine: add ability to disable faction sorting,Schema,https://github.com/wesnoth/wesnoth/pull/10266
+10263,[1.18] Floating label replace fix backport,Lua API,https://github.com/wesnoth/wesnoth/pull/10263
+10264,Check the correct attribute for sub achievements,,https://github.com/wesnoth/wesnoth/pull/10264
+10254,Add names or descriptions of abilities used as weapons to the sidebar.,"UI,Units,Schema,Campaign HttT,Campaign UtBS",https://github.com/wesnoth/wesnoth/pull/10254
+10250,1.19 attack animations for Dunefolk Rover,"Graphics,Units",https://github.com/wesnoth/wesnoth/pull/10250
+10253,wmlxgettext: Replace utcnow(),WML Tools,https://github.com/wesnoth/wesnoth/pull/10253
+10258,floating label/replace: properly use optional handle,Lua API,https://github.com/wesnoth/wesnoth/pull/10258
+10087,mouse back/forward button handling,"UI,Help,Input",https://github.com/wesnoth/wesnoth/pull/10087
+10236,Separate support for special weapons and filtering into separate functions.,Units,https://github.com/wesnoth/wesnoth/pull/10236
+10251,add id to event_abilities in Utbs,Campaign UtBS,https://github.com/wesnoth/wesnoth/pull/10251
+10252,TSG: replace {SAY_COMPANION} macro with lua,Campaign TSG,https://github.com/wesnoth/wesnoth/pull/10252
+10230,update to latest mariadbpp,"Building,CI,SCons,CMake",https://github.com/wesnoth/wesnoth/pull/10230
+10198,"TSG, TDG: capitalize ""XP""","Campaign TSG,Campaign TDG",https://github.com/wesnoth/wesnoth/pull/10198
+10228,Wesnothd: make ping command useful,MP,https://github.com/wesnoth/wesnoth/pull/10228
+10214,Simple WML: range for,"MP,Add-ons",https://github.com/wesnoth/wesnoth/pull/10214
+10246,"Unit Type: delete copy, default ctors",Units,https://github.com/wesnoth/wesnoth/pull/10246
+10247,Fix Sidebar tooltip no longer shows effect of unit damage resistances(always 0%),"Units,Engine",https://github.com/wesnoth/wesnoth/pull/10247
+10249,attempt to fix frost nova and soul rend,Campaign DiD,https://github.com/wesnoth/wesnoth/pull/10249
+10245,Fix crash with invalid unit type in weapon special tooltip,Units,https://github.com/wesnoth/wesnoth/pull/10245
+10233,Fix strict aliasing by not type-punning,"Graphics,Unit Tests",https://github.com/wesnoth/wesnoth/pull/10233
+10229,"Remove XMP metadata, use EXIF for PNGs","Graphics,MP,Units,CI,Campaign DW,Campaign HttT,Campaign L,Campaign TRoW,Campaign UtBS",https://github.com/wesnoth/wesnoth/pull/10229
+10226,fix id=poison can poison opponent same if in another type of special,"Unit Tests,Units",https://github.com/wesnoth/wesnoth/pull/10226
+10218,Add a 'radius' attribute to [affect adjacent] to allow abilities to affect distant units on the map,"Unit Tests,Units,Schema,Campaign DiD",https://github.com/wesnoth/wesnoth/pull/10218
+10231,Playturn Network Adapter: remove unused functions,Network,https://github.com/wesnoth/wesnoth/pull/10231
+10205,Separate out GUI logic and handle more curl errors,Network,https://github.com/wesnoth/wesnoth/pull/10205
+10215,Reinstate const modifiers to keep player_connections key constraints protected,MP,https://github.com/wesnoth/wesnoth/pull/10215
+10223,Chat Handler: use std::chrono over C time API,"AI,UI,Lua API,WFL",https://github.com/wesnoth/wesnoth/pull/10223
+9683,"1.19 Partial reversion of boats, reorganization of new generation","Graphics,Units",https://github.com/wesnoth/wesnoth/pull/9683
+10216,Ships clean-up,"Graphics,Units",https://github.com/wesnoth/wesnoth/pull/10216
+10221,Consistently mark move operations noexcept,"UI,Units,Lua API,WFL,Terrain",https://github.com/wesnoth/wesnoth/pull/10221
+10193,TDG: difficulty adjustment,"Achievements,Campaign TDG",https://github.com/wesnoth/wesnoth/pull/10193
+10213,Units Dialog: support marking units as favorite,"UI,Units",https://github.com/wesnoth/wesnoth/pull/10213
+10188,Fix some linter issues relating to move/const refs,"AI,MP,Units,Add-ons",https://github.com/wesnoth/wesnoth/pull/10188
+10204,Adjust loading screen to current code,UI,https://github.com/wesnoth/wesnoth/pull/10204
+10211,GUI2/Network Transmission: refinements,UI,https://github.com/wesnoth/wesnoth/pull/10211
+10209,Wesnothd: avoid unnecessary copy of new player object,MP,https://github.com/wesnoth/wesnoth/pull/10209
+10179,1.19 Elf Ships,"Graphics,Units",https://github.com/wesnoth/wesnoth/pull/10179
+10202,Handle boost process defaulting to v2 and add missing include,"Building,Stable 1.18",https://github.com/wesnoth/wesnoth/pull/10202
+10138,label inline link mechanism code simplification,UI,https://github.com/wesnoth/wesnoth/pull/10138
+10203,CMake: use add_compile_definitions,"Building,CMake",https://github.com/wesnoth/wesnoth/pull/10203
+10201,Simple WML: remove unused function with infinite loop,"MP,Add-ons",https://github.com/wesnoth/wesnoth/pull/10201
+10184,Remove non-sensical get_dir calls,Engine,https://github.com/wesnoth/wesnoth/pull/10184
+10199,update codeblock projectfiles,Building,https://github.com/wesnoth/wesnoth/pull/10199
+10197,Fix width weirdness with add_overlay_text (1.18),"UI,Lua API,Stable 1.18",https://github.com/wesnoth/wesnoth/pull/10197
+10194,(1.18) Implement <img> scale= attribute into the Help system markup and use it for unit portraits,"UI,Help,Stable 1.18",https://github.com/wesnoth/wesnoth/pull/10194
+10175,Use boost::process::v2 on 1.86 and later,"Building,Packaging,SCons,CMake",https://github.com/wesnoth/wesnoth/pull/10175
+10186,Improve the performance of wildcard_string_match,Engine,https://github.com/wesnoth/wesnoth/pull/10186
+10189,TSG S06: add tip about building a recall list,"Graphics,Campaign TSG",https://github.com/wesnoth/wesnoth/pull/10189
+10166,filesystem: simplify to_asset_path,"UI,Editor",https://github.com/wesnoth/wesnoth/pull/10166
+9566,fix #9561 OOS when undoingin multiplayer,Engine,https://github.com/wesnoth/wesnoth/pull/9566
+9033,Add -r option to add_source_file fix #8733,Building,https://github.com/wesnoth/wesnoth/pull/9033
+9656,Fix #9651 Error in u:extract(),Lua API,https://github.com/wesnoth/wesnoth/pull/9656
+9350,Expand Lua plugin API,"macOS,AI,Docs,Unit Tests,UI,Units,Lua API,Building,WFL",https://github.com/wesnoth/wesnoth/pull/9350
+9842,Fix #9834 error after reloading after taking village,Engine,https://github.com/wesnoth/wesnoth/pull/9842
+10028,"Revert ""Use the alternative Troll Hero profile as a profile for the Great Troll""",Units,https://github.com/wesnoth/wesnoth/pull/10028
+10185,Spaceship operator for light_adjust,Building,https://github.com/wesnoth/wesnoth/pull/10185
+10100,Add server-side queues,"MP,UI,Schema",https://github.com/wesnoth/wesnoth/pull/10100
+10122,SotBE S15: add AI support code,"Enhancement,Campaign SotBE",https://github.com/wesnoth/wesnoth/pull/10122
+10147,Clang build fix backport,Building,https://github.com/wesnoth/wesnoth/pull/10147
+10151,scons: remove option to use c++20 on 1.18 branch,"Building,SCons",https://github.com/wesnoth/wesnoth/pull/10151
+10182,Store lightmap data keys explicitly,Graphics,https://github.com/wesnoth/wesnoth/pull/10182
+10181,Update .gitignore to ignore the LOCAL_APPDATA_FONTCONFIG_CACHE directory,,https://github.com/wesnoth/wesnoth/pull/10181
+10176,[1.18] Help topic logic improvement,"Backport,Editor,Help",https://github.com/wesnoth/wesnoth/pull/10176
+10167,Fixed CMake build failure due to dependency on Boost CharConv,"Building,CMake",https://github.com/wesnoth/wesnoth/pull/10167
+10171,units_dialog.cpp: edit message text,"Enhancement,UI,Prose,Engine",https://github.com/wesnoth/wesnoth/pull/10171
+9958,Saurian Oracle tree palette cleanup,"Graphics,Units",https://github.com/wesnoth/wesnoth/pull/9958
+10169,Use boost to hash lightmap range,,https://github.com/wesnoth/wesnoth/pull/10169
+10170,Use boost::unordered_flat_map for image caches,,https://github.com/wesnoth/wesnoth/pull/10170
+10168,TDG: several dialogue and gameplay tweaks,Campaign TDG,https://github.com/wesnoth/wesnoth/pull/10168
+10165,Avoid translating entire table chunk in Help,"Translations,Prose,Help",https://github.com/wesnoth/wesnoth/pull/10165
+10088,rich label: Use Pango Shape attributes to handle inline images,"MP,UI,Editor,Units,Building,Help,SCons,CMake,Schema",https://github.com/wesnoth/wesnoth/pull/10088
+9188,Revised Encyclopedia,,https://github.com/wesnoth/wesnoth/pull/9188
+10163,help: separate unit help page id generation logic,"Editor,Units,Help",https://github.com/wesnoth/wesnoth/pull/10163
+10149,Consolidate WML value escape functionality,"MP,Add-ons",https://github.com/wesnoth/wesnoth/pull/10149
+10156,help: correct inline image size for scaling > 1,"UI,Help",https://github.com/wesnoth/wesnoth/pull/10156
+10155,Restore old formatting for log timestamps,,https://github.com/wesnoth/wesnoth/pull/10155
+10158,Don't keep a static light adjust list,,https://github.com/wesnoth/wesnoth/pull/10158
+10073,"Consistently update display when a unit changes (move, die, recruit) that affects the appearance of adjacent units through an ability","Units,Lua API",https://github.com/wesnoth/wesnoth/pull/10073
+10130,Improve Stymphalian Unit Description,"Units,Campaign WoF",https://github.com/wesnoth/wesnoth/pull/10130
+10140,Network: Correct curl protocol configuration (resolves #10139),"Backport,Network",https://github.com/wesnoth/wesnoth/pull/10140
+10144,Reapply modification_queue commit,,https://github.com/wesnoth/wesnoth/pull/10144
+10134,TDG: a few tweaks,Campaign TDG,https://github.com/wesnoth/wesnoth/pull/10134
+10096,"Necromancer: emphasize plague, reduce durability",Units,https://github.com/wesnoth/wesnoth/pull/10096
+10128,Use a proper struct for lightmap adjustments,,https://github.com/wesnoth/wesnoth/pull/10128
+10131,Help: convert to new markup,"Editor,Help",https://github.com/wesnoth/wesnoth/pull/10131
+10112,Allow the tournament DB query to define the complete text,"MP,Add-ons",https://github.com/wesnoth/wesnoth/pull/10112
+10116,Remove bogus layer attribute in [variant],"Schema,Terrain",https://github.com/wesnoth/wesnoth/pull/10116
+10126,Color Refactor,"UI,Units,Lua API",https://github.com/wesnoth/wesnoth/pull/10126
+10129,show max_attacks/attack usage in Help and Units dialog,"UI,Help",https://github.com/wesnoth/wesnoth/pull/10129
+10127,Don't skip fully transparent pixels when recoloring surfaces,,https://github.com/wesnoth/wesnoth/pull/10127
+10125,Editor: Remove old ToD schedule before saving new one,"Backport,Editor",https://github.com/wesnoth/wesnoth/pull/10125
+10120,EI: some assorted fixes and tweaks,"Achievements,Campaign EI",https://github.com/wesnoth/wesnoth/pull/10120
+10119,Add pango 1.50 to Steam package,Packaging,https://github.com/wesnoth/wesnoth/pull/10119
+10110,Remove old gamemap header parsing,Engine,https://github.com/wesnoth/wesnoth/pull/10110
+10077,Always default to NO_LAYER for the overlay,Terrain,https://github.com/wesnoth/wesnoth/pull/10077
+10071,"Remove ""among"" parameter remains after fbe2166",Campaign WC,https://github.com/wesnoth/wesnoth/pull/10071
+10111,SDL: surface-related cleanups,"UI,Lua API",https://github.com/wesnoth/wesnoth/pull/10111
+10109,WFL: add byte_index function,WFL,https://github.com/wesnoth/wesnoth/pull/10109
+10102,Deployed std::span via compat wrapper,"UI,Building,SCons,CMake",https://github.com/wesnoth/wesnoth/pull/10102
+10104,remove stuff specifically for 800xN resolutions,UI,https://github.com/wesnoth/wesnoth/pull/10104
+10103,"floor [gold]amount=, closes #9518",Lua API,https://github.com/wesnoth/wesnoth/pull/10103
+10095,Update AI macros to account for midnight & midday,AI,https://github.com/wesnoth/wesnoth/pull/10095
+10097,Move the toplevel read/write functions into their own namespace,"AI,MP,UI,Editor,Lua API,Add-ons,Achievements",https://github.com/wesnoth/wesnoth/pull/10097
+10091,GUI2: hotkey registration and related callback cleanup,"UI,Achievements",https://github.com/wesnoth/wesnoth/pull/10091
+9959,Saurian Spearthrower tree palette cleanup,"Graphics,Units",https://github.com/wesnoth/wesnoth/pull/9959
+9964,New Saurian Seer sprite,"Graphics,Units",https://github.com/wesnoth/wesnoth/pull/9964
+10066,Continue work on chrono cleanup,"MP,UI,Units,Add-ons,WFL",https://github.com/wesnoth/wesnoth/pull/10066
+9286,UI support for real-ranged attacks,"UI,Engine",https://github.com/wesnoth/wesnoth/pull/9286
+10081,Units: Roc XP to 150,Units,https://github.com/wesnoth/wesnoth/pull/10081
+10078,SotBE-S17: add message to event,"Enhancement,Prose,Campaign SotBE",https://github.com/wesnoth/wesnoth/pull/10078
+10079,SotBE-S14: refine map,"Enhancement,Campaign SotBE",https://github.com/wesnoth/wesnoth/pull/10079
+10058,Add gold_cost for TDG's Magic System,Campaign TDG,https://github.com/wesnoth/wesnoth/pull/10058
+10053,show plague type in UI,"UI,Units",https://github.com/wesnoth/wesnoth/pull/10053
+10055,Make the --data-dir explanation clearer,Docs,https://github.com/wesnoth/wesnoth/pull/10055
+10050,HttT S5a: clearer objective,Campaign HttT,https://github.com/wesnoth/wesnoth/pull/10050
+10059,Restore Windows CI job,CI,https://github.com/wesnoth/wesnoth/pull/10059
+10045,Port FPS viewer to GUI2,"macOS,UI,Building",https://github.com/wesnoth/wesnoth/pull/10045
+10046,"NR S2, 3, 6, 8: fix carryover gold %",Campaign NR,https://github.com/wesnoth/wesnoth/pull/10046
+10037,Leave chat open on failed command execution,UI,https://github.com/wesnoth/wesnoth/pull/10037
+10040,TDG: Correct Orcish Sorceress description,"Units,Prose,Campaign TDG",https://github.com/wesnoth/wesnoth/pull/10040
+10033,PUA: Access only the right unit type ID attribute,Lua API,https://github.com/wesnoth/wesnoth/pull/10033
+10054,Generalise log domain matching rules,"Docs,Command Line",https://github.com/wesnoth/wesnoth/pull/10054
+10043,"TSG help.cfg: improve translatability of ""ranged attack"" help message",Campaign TSG,https://github.com/wesnoth/wesnoth/pull/10043
+10041,rich label: support setting table bgcolors from definition,"UI,Help,Schema",https://github.com/wesnoth/wesnoth/pull/10041
+10038,Make sure formula symbol tables get deleted properly,"Units,Lua API,WFL",https://github.com/wesnoth/wesnoth/pull/10038
+10014,HttT S19c: Fix and improve drake spawn algorithm,Campaign HttT,https://github.com/wesnoth/wesnoth/pull/10014
+10036,Move TDG's spells to a separate file + bug fix,Campaign TDG,https://github.com/wesnoth/wesnoth/pull/10036
+9682,The South Guard: add Dalas's tutorial revision to mainline,"Graphics,Audio,Units,Schema,Terrain,Achievements,Campaign AToTB,Campaign EI,Campaign TSG,Campaign Tutorial",https://github.com/wesnoth/wesnoth/pull/9682
+10042,WFL/Formula: use a unique_ptr for the managed instance,WFL,https://github.com/wesnoth/wesnoth/pull/10042
+10015,Improve scons/ python files code style standards,"Building,SCons",https://github.com/wesnoth/wesnoth/pull/10015
+9819,Add queue-like functionality to the multiplayer lobby,"MP,UI,Schema",https://github.com/wesnoth/wesnoth/pull/9819
+10035,Delete spacer in TDG's spellcasting dialog,Campaign TDG,https://github.com/wesnoth/wesnoth/pull/10035
+10011,Styling changes for readability,Building,https://github.com/wesnoth/wesnoth/pull/10011
+9985,Android: hardcode landscape (right) orientation,"Packaging,Android",https://github.com/wesnoth/wesnoth/pull/9985
+10025,Use the alternative Troll Hero profile as a profile for the Great Troll,"Graphics,Units",https://github.com/wesnoth/wesnoth/pull/10025
+9979,Add various terrain type subtables,"Lua API,Help,Terrain",https://github.com/wesnoth/wesnoth/pull/9979
+10026,EI S14: undefine GOLD_PICKUP macro,Campaign EI,https://github.com/wesnoth/wesnoth/pull/10026
+10008,#9540 simple sprite shadow fix,"Graphics,Units",https://github.com/wesnoth/wesnoth/pull/10008
+10018,[1.18] Fix failure to build on current versions of MSVC,"Windows,Building",https://github.com/wesnoth/wesnoth/pull/10018
+10019,Fix prefs call in backport,,https://github.com/wesnoth/wesnoth/pull/10019
+9990,Adding the [have_side] tag,"Unit Tests,UI,Units,Lua API,Schema,Campaign THoT",https://github.com/wesnoth/wesnoth/pull/9990
+10007,canvas: draw circle using cairo,"Graphics,UI",https://github.com/wesnoth/wesnoth/pull/10007
+10017,TDG S06: clarify scenario objectives,Campaign TDG,https://github.com/wesnoth/wesnoth/pull/10017
+9947,AToTB S3 Map: Aesthetic Revision,Campaign AToTB,https://github.com/wesnoth/wesnoth/pull/9947
+9994,Fix some indentation and make CI abort if wmlindent errors,"CI,Campaign TSG",https://github.com/wesnoth/wesnoth/pull/9994
+9984,help browser: add search functionality,"UI,Help",https://github.com/wesnoth/wesnoth/pull/9984
+10004,TSG: sg_help.cfg: use correct variable call,Campaign TSG,https://github.com/wesnoth/wesnoth/pull/10004
+9970,Add `[unit]dismissable` and `[unit]block_dismiss_message`,"Unit Tests,UI,WML,Units,Schema",https://github.com/wesnoth/wesnoth/pull/9970
+9992,THoT-S3: make AI sides smarter,"Enhancement,Campaign THoT",https://github.com/wesnoth/wesnoth/pull/9992
+9974,GUI2: harden theme definition parsing,UI,https://github.com/wesnoth/wesnoth/pull/9974
+3653,Port the help browser to GUI2,"macOS,MP,UI,Editor,Building,Help,Schema",https://github.com/wesnoth/wesnoth/pull/3653
+9975,CI: run boost unit tests on a release build only,,https://github.com/wesnoth/wesnoth/pull/9975
+9957,Editor Adjustments,"UI,Editor,Input",https://github.com/wesnoth/wesnoth/pull/9957
+9966,Eastern Invasion S11,"Prose,Campaign EI",https://github.com/wesnoth/wesnoth/pull/9966
+9961,Note that iOS/Android versions are currently unmaintained in readme,Docs,https://github.com/wesnoth/wesnoth/pull/9961
+9963,Update Firebomb Ant and Grand Dragonfly XP,Units,https://github.com/wesnoth/wesnoth/pull/9963
+9301,Fixes unit moving during attack selection screen,"macOS,Graphics,MP,Unit Tests,UI,Editor,Units,Lua API,Building,WFL,Help,Schema,Campaign DW",https://github.com/wesnoth/wesnoth/pull/9301
+9951,Add map dimension info,CI,https://github.com/wesnoth/wesnoth/pull/9951
+9945,Saurian Juvenile,"Graphics,Units,Campaign TDG",https://github.com/wesnoth/wesnoth/pull/9945
+9944,help: link base and overlay terrains in terrain help pages (#9456),"UI,Help,Terrain",https://github.com/wesnoth/wesnoth/pull/9944
+9897,Only attempt to load .cfg scenarios in MP lobby,MP Lobby,https://github.com/wesnoth/wesnoth/pull/9897
+9955,lua api: expose male/female names for races,Lua API,https://github.com/wesnoth/wesnoth/pull/9955
+9953,"TDG: remove silent raven speed reduction, and use TRAIT_SLOW instead",Campaign TDG,https://github.com/wesnoth/wesnoth/pull/9953
+9374,fixup #8766,Campaign DW,https://github.com/wesnoth/wesnoth/pull/9374
+9949,Bump min Boost version to 1.70,"Building,SCons,CMake",https://github.com/wesnoth/wesnoth/pull/9949
+9408,World Conquest: Remove hard coded trainer indices,Campaign WC,https://github.com/wesnoth/wesnoth/pull/9408
+9914,THoT S7 Map: Aesthetic Revision,Campaign THoT,https://github.com/wesnoth/wesnoth/pull/9914
+9859,Change zookeeper to former maintainer of TRoW,Campaign TRoW,https://github.com/wesnoth/wesnoth/pull/9859
+9857,Change Fabi/Fendrin to former maintainer of LoW,Campaign LoW,https://github.com/wesnoth/wesnoth/pull/9857
+9856,Change zookeeper to former maintainer of HttT,Campaign HttT,https://github.com/wesnoth/wesnoth/pull/9856
+9866,Green Isle Encyclopedia Tweaks,"Prose,Help",https://github.com/wesnoth/wesnoth/pull/9866
+9941,TDG: some S00 onboarding improvements,Campaign TDG,https://github.com/wesnoth/wesnoth/pull/9941
+9939,Improve Galleon Unit Description,Units,https://github.com/wesnoth/wesnoth/pull/9939
