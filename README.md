@@ -1,6 +1,6 @@
 # Pull Request Clustering Using Text Similarity
 
-📄 A detailed project report is available at [https://kaosain.com/calgary/](https://kaosain.com/calgary/)
+
 The whole zip file of the code is also available within the repository.
 
 ### Overview
