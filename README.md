@@ -73,3 +73,6 @@ All data collection, clustering, and analysis were done manually.
 3) Cosine Similarity for Developer Activity.
 4) Threshold-based and Hierarchical Clustering. link: https://www.semanticscholar.org/paper/Mining-Developer-Behavior-Across-GitHub-and-Xiong-Meng/ec3e5a2fd771cf28315923f07e8a55dd7872aac1
 
+### Overleaf Link of the under developed Manuscript
+link: https://www.overleaf.com/7185844644cvgqfynbffyd#b39419
+
