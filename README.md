@@ -66,3 +66,10 @@ This was my first project in software engineering using AI. I learned how to col
 ### Disclaimer
 Some helper functions (like GitHub API calls and Streamlit setup) were developed with the help of online large language models to save time.  
 All data collection, clustering, and analysis were done manually.
+
+### Link for reference paper
+1) Using Transformer Embeddings for Software Engineering Text : link : https://arxiv.org/html/2405.19032v1
+2) Using Embeddings to Understand Software Artifacts: link: https://arxiv.org/abs/1803.09473
+3) Cosine Similarity for Developer Activity.
+4) Threshold-based and Hierarchical Clustering. link: https://www.semanticscholar.org/paper/Mining-Developer-Behavior-Across-GitHub-and-Xiong-Meng/ec3e5a2fd771cf28315923f07e8a55dd7872aac1
+
